@@ -1,0 +1,5 @@
+
+train: /content/gdrive/MyDrive/Assignment2/YOLO/KITTI_dataset/train/images
+val: /content/gdrive/MyDrive/Assignment2/YOLO/KITTI_dataset/valid/images
+nc: 1
+names: ['Vehicles']
